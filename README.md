@@ -13,7 +13,7 @@ To run the game locally:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/anshattri/tic-tac-toe.git
 Navigate to the project directory:
 bash
 Copy code
